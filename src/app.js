@@ -23,7 +23,7 @@ app.use(hpp());
 app.use(mongoSanitize());
 app.use(
   cors({
-    origin: ["http://localhost:3000", "https://akod-erp.vercel.app"],
+    origin: ["http://localhost:3000", "https://erp-main-khaki.vercel.app"],
     credentials: true,
   })
 );
