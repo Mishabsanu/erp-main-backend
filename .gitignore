@@ -1,0 +1,9 @@
+/node_modules
+.env
+/app.log
+/error.log
+/uploads
+.vercel
+.env*.local
+.vercel
+.env*.local

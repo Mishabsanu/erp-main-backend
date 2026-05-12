@@ -1,0 +1,7 @@
+node_modules
+logs
+.env
+.env.example
+.gitignore
+package-lock.json
+README.md

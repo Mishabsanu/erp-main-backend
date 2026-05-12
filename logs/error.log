@@ -1,0 +1,42 @@
+2026-04-12 03:16:10 error: 	Error caught: account is not defined
+2026-04-12 03:16:10 error: 	A non-operational error occurred
+2026-04-12 03:20:11 error: 	Error caught: Ledger validation failed: balance: Path `balance` is required.
+2026-04-12 03:20:32 error: 	Error caught: Ledger validation failed: balance: Path `balance` is required.
+2026-04-12 03:22:49 error: 	Error caught: companyName is not defined
+2026-04-12 03:22:49 error: 	A non-operational error occurred
+2026-04-12 03:24:34 error: 	Error caught: companyName is not defined
+2026-04-12 03:24:34 error: 	A non-operational error occurred
+2026-04-12 03:24:34 error: 	Error caught: companyName is not defined
+2026-04-12 03:24:34 error: 	A non-operational error occurred
+2026-04-12 03:26:10 error: 	Error caught: companyName is not defined
+2026-04-12 03:26:10 error: 	A non-operational error occurred
+2026-04-12 19:50:17 error: 	Error caught: invalid signature
+2026-04-12 19:50:17 error: 	A non-operational error occurred
+2026-04-12 19:50:18 error: 	Error caught: invalid signature
+2026-04-12 19:50:18 error: 	A non-operational error occurred
+2026-04-12 19:50:18 error: 	Error caught: invalid signature
+2026-04-12 19:50:18 error: 	A non-operational error occurred
+2026-04-12 19:50:20 error: 	Error caught: invalid signature
+2026-04-12 19:50:20 error: 	A non-operational error occurred
+2026-04-12 20:26:29 error: 	Error caught: Salary breakup not defined for this employee. Please define it first.
+2026-04-12 20:26:36 error: 	Error caught: Salary breakup not defined for this employee. Please define it first.
+2026-04-12 20:57:19 error: 	Error caught: Cannot read properties of undefined (reading '0')
+2026-04-12 20:57:19 error: 	A non-operational error occurred
+2026-04-12 20:57:19 error: 	Error caught: Cannot read properties of undefined (reading '0')
+2026-04-12 20:57:19 error: 	A non-operational error occurred
+2026-04-18 21:07:46 error: 	Error caught: DeliveryTicket validation failed: customerName: Cast to string failed for value "[ 'DELMON SCAF', 'DELMON SCAF' ]" (type Array) at path "customerName"
+2026-04-26 00:20:14 error: 	Error caught: Worker not found
+2026-04-26 00:22:00 error: 	Error caught: File too large
+2026-04-26 00:22:00 error: 	A non-operational error occurred
+2026-04-26 14:24:49 error: 	Error caught: Updating the path 'status' would create a conflict at 'status'
+2026-04-26 14:24:49 error: 	A non-operational error occurred
+2026-04-26 15:02:39 error: 	Error caught: Cast to embedded failed for value "[{"material":"69edd30d32adb734d150342a","quantity":100},{"material":"69edd30d32adb734d1503400","quantity":100}]" (type string) at path "rawMaterials" because of "ObjectParameterError"
+2026-04-26 19:14:13 error: 	Error caught: E11000 duplicate key error collection: akod-erp.orders index: invoice_number_1 dup key: { invoice_number: "SANU-10" }
+2026-04-26 19:42:06 error: 	Error caught: E11000 duplicate key error collection: akod-erp.orders index: order_number_1 dup key: { order_number: "RO-00006" }
+2026-04-27 10:35:23 error: 	Error caught: Item with code CL1 not found in inventory
+2026-05-07 17:12:31 error: 	Error caught: fs is not defined
+2026-05-07 17:12:31 error: 	A non-operational error occurred
+2026-05-07 17:15:34 error: 	Error caught: fs is not defined
+2026-05-07 17:15:34 error: 	A non-operational error occurred
+2026-05-07 17:16:21 error: 	Error caught: fs is not defined
+2026-05-07 17:16:21 error: 	A non-operational error occurred
